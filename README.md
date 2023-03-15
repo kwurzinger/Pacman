@@ -1,6 +1,6 @@
 # pacman
 
-A new Flutter project.
+A Pacman App developed with flutter
 
 ## Getting Started
 
